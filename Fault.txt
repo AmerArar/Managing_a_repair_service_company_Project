@@ -1,0 +1,4 @@
+4564|1252gwr|0507284935|0|2019-11-27|Normal malfunction|New Fault|prm|1|2.23606797749979|Not assigning yet
+4565|wrgf4|0526247445|0|2019-11-27|Normal malfunction|New Fault|cr|1|2.23606797749979|Not assigning yet
+4566|kjhergkjl5|0508327494|0|2019-11-27|Maintenance failure|New Fault|mm|0.5|6.324555320336759|Not assigning yet
+4567|23411f|0507368649|0|2019-11-27|Critical malfunction|New Fault|mo|2|2.23606797749979|Not assigning yet
